@@ -1,5 +1,4 @@
 <h3>Hi!! I'm Helen Cris</h3>
-<br>
 
 🌱 I'm currently learning Python and JavaScript
 
