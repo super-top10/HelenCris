@@ -1,4 +1,4 @@
-<h3>Hi!! I'm Helen Cris. 👩🏽‍💻Computer Science student.</h3>
+<h3>Hi!! I'm Helen Cris.</h3>
 
 🌱 I'm currently learning Python and JavaScript
 
