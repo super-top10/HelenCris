@@ -1,8 +1,7 @@
 <h3>Hi!! I'm Helen Cris</h3>
-<div >
-<h5>🌱 Computer Science student</h5>
-<h5>🌱 I'm currently learning Python and JavaScript</h5>
-</div>
+
+🌱 I'm currently learning Python and JavaScript
+
 <br>
 <div align="center">
   <a href="https://github.com/HelenCris">
