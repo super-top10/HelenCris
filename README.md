@@ -1,12 +1,11 @@
-## Hi!! I'm Helen Cris.
+<h3> Hi!! I'm Helen Cris. </h3>
 
 🌱 I'm currently learning MySQL, Python and JavaScript
 
-<div align="center">
-  <a href="https://github.com/HelenCris">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HelenCris&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenCris&theme=gotham&layout=compact"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenCris&hide=contribs,prs&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelenCris&layout=compact&theme=gotham)](https://github.com/HelenCris/github-readme-stats)
+
+
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
