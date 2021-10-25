@@ -2,7 +2,6 @@
 
 🌱 I'm currently learning MySQL, Python and JavaScript
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenCris&hide=contribs,prs&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelenCris&layout=compact&theme=gotham)
 
 
