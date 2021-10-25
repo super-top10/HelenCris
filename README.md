@@ -1,11 +1,14 @@
 <h3> Hi!! I'm Helen Cris. 👩🏽‍💻Computer Science student. </h3>
 
 🌱 I'm currently learning MySQL, Python and JavaScript
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenCris&count_private=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelenCris&layout=compact&theme=gotham)
-
-
+<div>
+  <a href="https://github.com/HelenCris/github-readme-stats">
+    <img align="center" height = "170px" src="https://github-readme-stats.vercel.app/api?username=HelenCris&theme=gotham" />
+  </a> 
+  <a href="https://github.com/HelenCris/convoychat">
+    <img align="center" height = "170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenCris&layout=compact&theme=gotham" />
+  </a>
+</div>
 <div style="display: inline_block"><br>
   <img  />
 
