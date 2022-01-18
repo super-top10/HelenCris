@@ -1,6 +1,5 @@
 <h3> Hi!! I'm Helen Cris. 👩🏽‍💻Computer Science student. </h3>
 
-🌱 I'm currently learning Python and Data Science.
 <div>
   <a href="https://github.com/HelenCris/github-readme-stats">
     <img align="center" height = "150px" src="https://github-readme-stats.vercel.app/api?username=HelenCris&theme=gotham" />
