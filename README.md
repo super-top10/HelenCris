@@ -1,6 +1,6 @@
 ## Hi!! I'm Helen Cris.
 
-- 🪴 I'm learning FullStack Web Development
+- 🪴 I'm learning Reactjs
 
 <div >
   <a href="https://github.com/HelenCris">
