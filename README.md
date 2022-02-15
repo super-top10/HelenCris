@@ -1,5 +1,5 @@
 ## Hi!! I'm Helen Cris.
-<img align="right" src="https://github.com/HelenCris/HelenCris/blob/main/code-girl.gif" width="250"/>
+<img align="right" src="https://github.com/HelenCris/HelenCris/blob/main/code-girl.gif" width="220"/>
 
   
 <div>
