@@ -1,28 +1,27 @@
 ## Hi!! I'm Helen Cris.
-<img align="right" src="https://github.com/HelenCris/HelenCris/blob/main/code-girl.gif" width="220"/>
+<img align="right" src="https://github.com/HelenCris/HelenCris/blob/main/code-girl.gif" width="270"/>
 
-  
-<div>
+<div>   
   - 💻 I'm a CS student
   <br>
   - 🌱 I'm currently learning Reactjs
   <br>
-  - ⚡ Facts: I 💜 cats
+  - 💜 About me: I'm bookworm 
   <br>
-  - ⚒️ Programming languages and Tools:
-  
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  - 📫 How to reach me:
 
-
+  <div style="display: flex">
+    <a href="https://www.linkedin.com/in/helen-cris-m-935032207/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="mailto:helencrisfernandes@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
   </div>
+ 
+  - ⚒️ Programming languages and Frameworks:
+  <div style="display: inline_block">
+    <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img alt="Ts" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+    <img alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  </div>   
 </div>
 
 ##
@@ -32,7 +31,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HelenCris&show_icons=true&theme=aura&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenCris&layout=compact&theme=aura"/>
 </div>
-  
- 
-
-  
