@@ -1,6 +1,6 @@
 # Hi!! I'm Helen Cris. I'm a CS student 
 
-<img align="right" height="230" width="350" alt="GIF" src="https://github.com/HelenCris/HelenCris/blob/main/code-girl.gif" >
+<img align="right" height="200" width="300" alt="GIF" src="https://github.com/HelenCris/HelenCris/blob/main/code-girl.gif" >
 
 - 🌱 I'm currently learning Reactjs
 - 💜 About me: **I'm bookworm**
