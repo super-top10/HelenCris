@@ -2,10 +2,10 @@
 
 <img align="right" height="200" width="300" alt="GIF" src="https://github.com/HelenCris/HelenCris/blob/main/code-girl.gif" >
 <div >
-    <h5>🌱 I'm currently learning Reactjs</h5> 
-    <h5>💜 About me: **I'm bookworm**</h5> 
-    <h5>💻 You can see my personal portfolio <a href="https://helencris.github.io/personal-portfolio.github.io/">here</a></h5>
-    <h5>⚒️ Programming languages and Frameworks: </h5>
+    <h4>🌱 I'm currently learning Reactjs</h4> 
+    <h4>💜 About me: **I'm bookworm**</h4> 
+    <h4>💻 You can see my personal portfolio <a href="https://helencris.github.io/personal-portfolio.github.io/">here</a></h4>
+    <h4>⚒️ Programming languages and Frameworks: </h4>
 </div>   
 <div style="display: inline_block">
      <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
